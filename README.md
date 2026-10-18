@@ -1,0 +1,2 @@
+# DeepSeekharness-
+DeepSeekharness权限提醒弹窗，这段代码会让你的DeepSeek harness在弹出权限请求时以最优先级弹出，让人一眼看到DeepSeek harness
